@@ -16,7 +16,6 @@ vm-version = using VMware
 
 ## Operation
 
-
 ### PO1-vm16     : Innacurate mouse position
 #### SO1-vm16    : 
 * uncheck override high DPI scalling behavior.
