@@ -1,10 +1,19 @@
 # troubleshooting-OS-Virtualization
-Contains notes on how to tackle every errors, problems that occurred related to virtualization any OS
+Contains notes on how to tackle every errors, problems that occurred related to virtualization any OS.
+P stands for Problem, S stands for Solution.
 
 
 ## Installation
 
-### Problem 1 : Unsuccessful EFI Network Process
-#### Solution 1 : (1) Change Firmware Type in Advanced Options from edit virtual machine to BIOS (it was EFI). (2) Make sure that the iso file is already assigned in vmware
+### PI1     : Unsuccessful EFI Network Process
+#### SI1    :
+* Change Firmware Type in Advanced Options from edit virtual machine to BIOS (it was EFI)
+* Make sure that the iso file is already assigned in vmware
 
 ## Operation
+
+
+### PO1     : Innacurate mouse position
+#### SO1    : 
+* uncheck override high DPI scalling behavior.
+    * It located in compatibility tab (vmware's properties) --> inside change high DPI settings
