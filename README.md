@@ -20,5 +20,4 @@ vm-version = using VMware
 #### SO1-vm16    : 
 * uncheck override high DPI scalling behavior.
     * It located in compatibility tab (vmware's properties) --> inside change high DPI settings
-### PO2-vm16     : Setting connection between several machines
-#### SO1-vm16    :
+
